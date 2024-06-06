@@ -182,8 +182,14 @@
 .form-proper .form-btn:hover{
   background-color: rgb(202, 199, 199);
  }
- 
- 
+ .linking{
+  text-decoration: none;
+  color: var(--primary-light-color);
+ } 
+ .linking:hover{
+  color:rgb(202, 199, 199) ;
+  text-decoration: none;
+ }
 
  /* powered by */
  #powered{
