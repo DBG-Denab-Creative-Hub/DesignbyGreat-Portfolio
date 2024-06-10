@@ -147,16 +147,18 @@
   }
 
   .p1 {
+    margin-top: 9rem;
     font-size: 4rem;
   }
 
   .p1i {
-    margin-top: 5rem;
+    margin-top: 7rem;
     font-size: 4.5rem;
   }
 
   #three {
     text-align: center;
+    margin-top: 7rem;
   }
 
   .p2 {
@@ -169,6 +171,7 @@
   }
 
   button.botn {
+    margin-top: 2rem;
     font-size: 2rem;
     color: black;
     font-weight: bold;
