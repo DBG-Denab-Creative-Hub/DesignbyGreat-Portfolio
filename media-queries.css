@@ -30,16 +30,18 @@
   }
 
   .p1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
+    margin-top: 5rem;
   }
 
   .p1i {
-    margin-top: 2rem;
+    margin-top: 5rem;
     font-size: 3rem;
   }
 
   #three {
     text-align: center;
+    margin-top: 3rem;
   }
 
   .p2 {
@@ -68,12 +70,13 @@
   }
 
   .p1 {
+    margin-top: 5rem;
     font-size: 3rem;
   }
 
   .p1i {
-    margin-top: 2rem;
-    font-size: 4rem;
+    margin-top: 5rem;
+    font-size: 4.3rem;
   }
 
   #three {
@@ -83,6 +86,7 @@
   .p2 {
     font-size: 2rem;
     font-weight: bolder;
+    margin-top: 3rem;
   }
 
   .p3 {
